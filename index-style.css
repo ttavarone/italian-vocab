@@ -1,0 +1,17 @@
+div{
+    background-color: rgb(201, 201, 201);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.introtext{
+    background-color: rgb(201, 201, 201);
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+}
+.mainnavi{
+    float: right;
+    background-color: #ffffff;
+}
+div.navipane{
+    background-color: red;
+}
